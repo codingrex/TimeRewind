@@ -1,8 +1,16 @@
 # TimeRewind: Rewinding Time with Image-and-Events Video Diffusion
 Official code for paper TimeRewind: Rewinding Time with Image-and-Events Video Diffusion
 
-The arXiv paper are available on project website \
-[Website](https://timerewind.github.io/)
+
+**Please Read this Before Proceed**
+
+This project is archived and incorporated as part of the final version accepted to CVPR 2025: Please check the paper and code release here:
+# Repurposing Pre-trained Video Diffusion Models for Event-based Video Interpolation (CVPR 2025)
+**Official repository for the CVPR 2025 paper, "Repurposing Pre-trained Video Diffusion Models for Event-based Video Interpolation"**
+
+\[[Website](https://vdm-evfi.github.io/)\] 
+\[[Paper](https://arxiv.org/abs/2412.07761)\] 
+
 
 
 
